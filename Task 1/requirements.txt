@@ -1,0 +1,17 @@
+# File Integrity Monitor Requirements
+# This tool uses only Python standard library modules
+# No external dependencies required
+
+# Required Python version: 3.6 or higher
+# Standard library modules used:
+# - hashlib (for hash calculations)
+# - os (for file system operations)
+# - json (for storing hash data)
+# - time (for timing operations)
+# - datetime (for timestamps)
+# - pathlib (for path operations)
+# - argparse (for command line interface)
+# - sys (for system operations)
+
+# To run the tool:
+# python main.py --help 
