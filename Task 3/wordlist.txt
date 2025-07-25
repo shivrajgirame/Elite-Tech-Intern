@@ -1,0 +1,7 @@
+admin
+123456
+letmein
+qwerty
+password
+admin123
+testpass
